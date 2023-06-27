@@ -1,0 +1,94 @@
+*{
+	margin:0;
+	padding:0;
+  	box-sizing:border-box;
+	}
+	
+	button{display:inline-block; padding:20px; width:100px;}
+	
+    #plkm1{
+		background-color:red;
+		padding-top:20px;
+		margin:50px;
+		border:solid;
+		border-radius:0 30px 0 30px;
+		}
+	#plkm2{
+		background-color:blue;
+		padding-left:50px;
+		margin:50px;
+		border:dotted;
+		border-radius:10% / 50%;;
+		}
+			
+	#plkm3{
+		background-color:yellow;
+		padding-right:80px;
+		margin:50px;
+		border:dashed;
+		border-radius:25% 10%;;
+		}
+	#plkm4{
+		background-color:green;
+		padding-bottom:20px;
+		margin:50px;
+		border:double;
+		border-radius:30% 60%;
+		}
+	#plkm5{
+		background-color:red;
+		padding-top:10px;
+		margin:50px;
+		border:groove;
+		border-radius:30px 30px 30px 30px;
+		
+		 }
+	 #plkm6{
+		background-color:blue;
+		padding-left:10px;
+		margin:50px;
+		border:ridge;
+		border-radius:80% 60%;
+		}
+	#plkm7{
+		background-color:yellow;
+		padding-right:10px;
+		margin:50px;
+		border:ridge;
+		border-radius:30% 20% 10% 40%;
+		}
+	#plkm8{
+		background-color:green;
+		padding-bottom:10px;
+		margin:50px;
+		border:outset;
+		border-radius:10% 30% 50% 70%;
+		}	
+	#plkm9{
+		background-color:red;
+		padding-top:10px;
+		margin:50px;
+		border:none;
+		border-radius:40% 30% 50% 70%;
+		}
+	#plkm10{
+		background-color:blue;
+		padding-left:10px;
+		margin:50px;
+		border:hidden;
+		border-radius:20% 40% 60% 70%;
+		}
+	#plkm11{
+		background-color:yellow;
+		padding-right:10px;
+		margin:50px;
+		border:dashed;
+		border-radius:70% 60% 50% 40%;
+		}
+	#plkm12{
+		background-color:green;
+		padding-bottom:10px;
+		margin:50px;
+		border:double;
+		border-radius:50% 60% 70% 80%;
+		}		
